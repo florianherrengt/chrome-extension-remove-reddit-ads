@@ -2,7 +2,7 @@
 
 ## Installation Instructions
 
-1. Download this repo as a [ZIP file from GitHub](https://github.com/florianherrengt/chrome-extension-remove-reddit-ads/archive/master.zip).
+1. Download this repo as a [ZIP file from GitHub](https://github.com/florianherrengt/chrome-extension-remove-reddit-ads/archive/main.zip).
 2. Unzip the file and you should have a folder named `chrome-extension-remove-reddit-ads-master`.
 3. In Chrome go to the extensions page (chrome://extensions).
 4. Enable Developer Mode.
